@@ -1,5 +1,5 @@
 # UDACITY-Hippocampal_Volume_Quantification
-Udacity project: Hippocampal Volume Quantification in Alzheimer's Progression
+Udacity project: Hippocampal Volume Quantification in Alzheimer's Progression. (This project is made of 3 parts)
 
 In this project you will build an end-to-end AI system which features a machine learning algorithm that integrates into a clinical-grade viewer and automatically measures hippocampal volumes of new patients, as their studies are committed to the clinical imaging archive.
 
