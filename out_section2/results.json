@@ -1,0 +1,383 @@
+{
+  "volume_stats": [
+    {
+      "filename": "hippocampus_105.nii.gz",
+      "dice": 0.9186902710324298,
+      "jaccard": 0.8496088090408577,
+      "sensitivity": 0.9278481012658227,
+      "specificity": 0.997795588146173
+    },
+    {
+      "filename": "hippocampus_034.nii.gz",
+      "dice": 0.9120265580202203,
+      "jaccard": 0.8382801664355063,
+      "sensitivity": 0.8954074074074074,
+      "specificity": 0.9984036757101908
+    },
+    {
+      "filename": "hippocampus_311.nii.gz",
+      "dice": 0.8890931372549019,
+      "jaccard": 0.8003309431880861,
+      "sensitivity": 0.9065916900968447,
+      "specificity": 0.9971351726648287
+    },
+    {
+      "filename": "hippocampus_015.nii.gz",
+      "dice": 0.8523809523809524,
+      "jaccard": 0.7427385892116183,
+      "sensitivity": 0.8889677190493083,
+      "specificity": 0.996720110157021
+    },
+    {
+      "filename": "hippocampus_345.nii.gz",
+      "dice": 0.8947030497592295,
+      "jaccard": 0.8094684867847807,
+      "sensitivity": 0.9352348993288591,
+      "specificity": 0.996385410486213
+    },
+    {
+      "filename": "hippocampus_303.nii.gz",
+      "dice": 0.8946762589928058,
+      "jaccard": 0.8094246290028638,
+      "sensitivity": 0.9438372799028537,
+      "specificity": 0.9960946982136992
+    },
+    {
+      "filename": "hippocampus_051.nii.gz",
+      "dice": 0.9058467420742393,
+      "jaccard": 0.8278974956319162,
+      "sensitivity": 0.914441942746864,
+      "specificity": 0.9975389787897834
+    },
+    {
+      "filename": "hippocampus_197.nii.gz",
+      "dice": 0.9251934651762683,
+      "jaccard": 0.8608,
+      "sensitivity": 0.9558779982232751,
+      "specificity": 0.9975504199749131
+    },
+    {
+      "filename": "hippocampus_124.nii.gz",
+      "dice": 0.8814826857421557,
+      "jaccard": 0.7880813953488373,
+      "sensitivity": 0.8642014663691425,
+      "specificity": 0.9978391562011938
+    },
+    {
+      "filename": "hippocampus_169.nii.gz",
+      "dice": 0.9060480530240265,
+      "jaccard": 0.8282338685246895,
+      "sensitivity": 0.956278419027632,
+      "specificity": 0.9969432284210599
+    },
+    {
+      "filename": "hippocampus_158.nii.gz",
+      "dice": 0.8837338519238783,
+      "jaccard": 0.791687406669985,
+      "sensitivity": 0.9322977725674091,
+      "specificity": 0.9960193383956488
+    },
+    {
+      "filename": "hippocampus_372.nii.gz",
+      "dice": 0.9103257103257103,
+      "jaccard": 0.8354108369371661,
+      "sensitivity": 0.9428653459661211,
+      "specificity": 0.99688830544616
+    },
+    {
+      "filename": "hippocampus_289.nii.gz",
+      "dice": 0.8684342171085543,
+      "jaccard": 0.7674624226348364,
+      "sensitivity": 0.9510591672753835,
+      "specificity": 0.9953421228541764
+    },
+    {
+      "filename": "hippocampus_207.nii.gz",
+      "dice": 0.9220355372899794,
+      "jaccard": 0.8553487328997533,
+      "sensitivity": 0.9361806578301424,
+      "specificity": 0.9972359031058398
+    },
+    {
+      "filename": "hippocampus_057.nii.gz",
+      "dice": 0.8927221948414654,
+      "jaccard": 0.8062314540059348,
+      "sensitivity": 0.9798052650558962,
+      "specificity": 0.995753519173181
+    },
+    {
+      "filename": "hippocampus_195.nii.gz",
+      "dice": 0.917682101272678,
+      "jaccard": 0.8478859144358268,
+      "sensitivity": 0.9257033597377765,
+      "specificity": 0.9974450029276009
+    },
+    {
+      "filename": "hippocampus_017.nii.gz",
+      "dice": 0.9228579561628238,
+      "jaccard": 0.8567653276955602,
+      "sensitivity": 0.9321449108683151,
+      "specificity": 0.9978124419153286
+    },
+    {
+      "filename": "hippocampus_094.nii.gz",
+      "dice": 0.9378531073446328,
+      "jaccard": 0.8829787234042553,
+      "sensitivity": 0.9270290394638868,
+      "specificity": 0.9986743086288657
+    },
+    {
+      "filename": "hippocampus_107.nii.gz",
+      "dice": 0.9217118997912317,
+      "jaccard": 0.8547918683446273,
+      "sensitivity": 0.8950836289913837,
+      "specificity": 0.9986658441763381
+    },
+    {
+      "filename": "hippocampus_220.nii.gz",
+      "dice": 0.9094185094185094,
+      "jaccard": 0.8338840492640432,
+      "sensitivity": 0.9474402730375426,
+      "specificity": 0.9974555843228283
+    },
+    {
+      "filename": "hippocampus_181.nii.gz",
+      "dice": 0.9123372264733521,
+      "jaccard": 0.8388052332757344,
+      "sensitivity": 0.9203683640303358,
+      "specificity": 0.9972694636283428
+    },
+    {
+      "filename": "hippocampus_006.nii.gz",
+      "dice": 0.9285375118708452,
+      "jaccard": 0.8666075781076888,
+      "sensitivity": 0.9174290405817499,
+      "specificity": 0.9982026930846819
+    },
+    {
+      "filename": "hippocampus_318.nii.gz",
+      "dice": 0.8638255129860812,
+      "jaccard": 0.7602930032836575,
+      "sensitivity": 0.8560864618885097,
+      "specificity": 0.9970074846658921
+    },
+    {
+      "filename": "hippocampus_286.nii.gz",
+      "dice": 0.9144615384615384,
+      "jaccard": 0.8424036281179138,
+      "sensitivity": 0.9369482976040353,
+      "specificity": 0.9976007548187087
+    },
+    {
+      "filename": "hippocampus_387.nii.gz",
+      "dice": 0.8835316217908579,
+      "jaccard": 0.7913628715647785,
+      "sensitivity": 0.9162337662337663,
+      "specificity": 0.996320634728363
+    },
+    {
+      "filename": "hippocampus_330.nii.gz",
+      "dice": 0.7918716023815687,
+      "jaccard": 0.6554531819155774,
+      "sensitivity": 0.7653239929947461,
+      "specificity": 0.9951924111851783
+    },
+    {
+      "filename": "hippocampus_235.nii.gz",
+      "dice": 0.826147859922179,
+      "jaccard": 0.703792097586847,
+      "sensitivity": 0.8730263157894737,
+      "specificity": 0.9950778388278388
+    },
+    {
+      "filename": "hippocampus_301.nii.gz",
+      "dice": 0.9018413803102798,
+      "jaccard": 0.8212305254819118,
+      "sensitivity": 0.8988439306358381,
+      "specificity": 0.9973525697075682
+    },
+    {
+      "filename": "hippocampus_099.nii.gz",
+      "dice": 0.8590966348749325,
+      "jaccard": 0.7529968454258675,
+      "sensitivity": 0.9416173570019724,
+      "specificity": 0.9952123528835207
+    },
+    {
+      "filename": "hippocampus_014.nii.gz",
+      "dice": 0.8758134490238612,
+      "jaccard": 0.779064158224795,
+      "sensitivity": 0.8917725013804528,
+      "specificity": 0.9966436504784719
+    },
+    {
+      "filename": "hippocampus_349.nii.gz",
+      "dice": 0.8408292340126493,
+      "jaccard": 0.7253713246438315,
+      "sensitivity": 0.9239382239382239,
+      "specificity": 0.9948124734770329
+    },
+    {
+      "filename": "hippocampus_249.nii.gz",
+      "dice": 0.9295015716210148,
+      "jaccard": 0.8682885906040269,
+      "sensitivity": 0.9271424305762914,
+      "specificity": 0.9982227163470949
+    },
+    {
+      "filename": "hippocampus_165.nii.gz",
+      "dice": 0.9142145414915148,
+      "jaccard": 0.8419845139088041,
+      "sensitivity": 0.9712206417466094,
+      "specificity": 0.9965942704472222
+    },
+    {
+      "filename": "hippocampus_350.nii.gz",
+      "dice": 0.8769716088328076,
+      "jaccard": 0.7808988764044944,
+      "sensitivity": 0.8976886471787899,
+      "specificity": 0.996866498597046
+    },
+    {
+      "filename": "hippocampus_102.nii.gz",
+      "dice": 0.8965427942509387,
+      "jaccard": 0.812485332081671,
+      "sensitivity": 0.8753476611883692,
+      "specificity": 0.9978676106786712
+    },
+    {
+      "filename": "hippocampus_288.nii.gz",
+      "dice": 0.9245735607675906,
+      "jaccard": 0.859727385377943,
+      "sensitivity": 0.9022106631989597,
+      "specificity": 0.9987483778317952
+    },
+    {
+      "filename": "hippocampus_219.nii.gz",
+      "dice": 0.8740412476563831,
+      "jaccard": 0.7762640024220405,
+      "sensitivity": 0.9060070671378092,
+      "specificity": 0.9968195693979371
+    },
+    {
+      "filename": "hippocampus_091.nii.gz",
+      "dice": 0.8982576228998134,
+      "jaccard": 0.8153064106184693,
+      "sensitivity": 0.943155831427638,
+      "specificity": 0.9966757851726168
+    },
+    {
+      "filename": "hippocampus_048.nii.gz",
+      "dice": 0.9127880704925441,
+      "jaccard": 0.8395677472984207,
+      "sensitivity": 0.926039119804401,
+      "specificity": 0.9977883656218827
+    },
+    {
+      "filename": "hippocampus_040.nii.gz",
+      "dice": 0.9145436016887465,
+      "jaccard": 0.8425429184549357,
+      "sensitivity": 0.911756168359942,
+      "specificity": 0.998034872336141
+    },
+    {
+      "filename": "hippocampus_294.nii.gz",
+      "dice": 0.8910366328916601,
+      "jaccard": 0.803486083778465,
+      "sensitivity": 0.8799261083743842,
+      "specificity": 0.9977946214457006
+    },
+    {
+      "filename": "hippocampus_038.nii.gz",
+      "dice": 0.8617126680820948,
+      "jaccard": 0.7570256155185278,
+      "sensitivity": 0.8555368184373243,
+      "specificity": 0.9968714947903293
+    },
+    {
+      "filename": "hippocampus_351.nii.gz",
+      "dice": 0.8805425143453313,
+      "jaccard": 0.7865796831314072,
+      "sensitivity": 0.9065520945220193,
+      "specificity": 0.9959322810736486
+    },
+    {
+      "filename": "hippocampus_282.nii.gz",
+      "dice": 0.8491107286288009,
+      "jaccard": 0.7377866400797607,
+      "sensitivity": 0.9188741721854304,
+      "specificity": 0.996023763544684
+    },
+    {
+      "filename": "hippocampus_319.nii.gz",
+      "dice": 0.8756125141349416,
+      "jaccard": 0.7787462286288971,
+      "sensitivity": 0.9591246903385632,
+      "specificity": 0.9957738839588387
+    },
+    {
+      "filename": "hippocampus_338.nii.gz",
+      "dice": 0.8821473507619181,
+      "jaccard": 0.7891445722861431,
+      "sensitivity": 0.8708252829147116,
+      "specificity": 0.9974650001014
+    },
+    {
+      "filename": "hippocampus_204.nii.gz",
+      "dice": 0.9203598800399867,
+      "jaccard": 0.8524691358024692,
+      "sensitivity": 0.9613644274277758,
+      "specificity": 0.9974616656176729
+    },
+    {
+      "filename": "hippocampus_142.nii.gz",
+      "dice": 0.9228013612753,
+      "jaccard": 0.8566677751912205,
+      "sensitivity": 0.9551353355580274,
+      "specificity": 0.9979732071055436
+    },
+    {
+      "filename": "hippocampus_035.nii.gz",
+      "dice": 0.9058064516129032,
+      "jaccard": 0.8278301886792453,
+      "sensitivity": 0.9156521739130434,
+      "specificity": 0.9973840325923808
+    },
+    {
+      "filename": "hippocampus_310.nii.gz",
+      "dice": 0.8270410249420744,
+      "jaccard": 0.7050894724610737,
+      "sensitivity": 0.8041346408693347,
+      "specificity": 0.9962030848144885
+    },
+    {
+      "filename": "hippocampus_305.nii.gz",
+      "dice": 0.829589216944801,
+      "jaccard": 0.708801754867014,
+      "sensitivity": 0.8534169692967977,
+      "specificity": 0.9954637207765993
+    },
+    {
+      "filename": "hippocampus_309.nii.gz",
+      "dice": 0.8634421937439714,
+      "jaccard": 0.7596993210475267,
+      "sensitivity": 0.8673864894795127,
+      "specificity": 0.9962256361867131
+    }
+  ],
+  "overall": {
+    "mean_dice": 0.8906893651567305,
+    "mean_jaccard": 0.8043285349179288,
+    "mean_sensitivity": 0.9116996544274367,
+    "mean_specificity": 0.9969727229929817
+  },
+  "config": {
+    "name": "Basic_unet",
+    "root_dir": "datasets/",
+    "n_epochs": 8,
+    "learning_rate": 0.0002,
+    "batch_size": 8,
+    "patch_size": 64,
+    "test_results_dir": "results/"
+  }
+}
